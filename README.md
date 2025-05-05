@@ -17,9 +17,8 @@ An AI-based Parking Management System that uses real-time object detection to mo
 ## 🧰 Tech Stack
 
 - Python
-- YOLOv8 (Ultralytics)
+- YOLO11l (Ultralytics)
 - OpenCV
-- NumPy
 - Ultralytics Parking Management Solution
 
 ## 🚀 Installation
