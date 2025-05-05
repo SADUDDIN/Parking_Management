@@ -4,7 +4,7 @@ An AI-based Parking Management System that uses real-time object detection to mo
 
 ## 📸 Demo
 
-![Demo GIF or Image]([link_to_demo.gif](https://github.com/SADUDDIN/Parking_Management/blob/main/data/parkingmanagement-ezgif.com-video-to-gif-converter.gif))
+![Demo GIF or Image](https://github.com/SADUDDIN/Parking_Management/blob/main/data/parkingmanagement-ezgif.com-video-to-gif-converter.gif)
 
 ## 🔧 Features
 
